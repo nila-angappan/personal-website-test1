@@ -22,3 +22,14 @@ button{
   font-size: 16px;
   font-family: 'Arial';
 }
+
+footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 5px 5px;
+
+  background: #121d14;
+  color: #f3eadb;
+  font-size: 16px;
+}
