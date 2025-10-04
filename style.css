@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+
 img {
     width: 400px;
   }
@@ -32,4 +34,12 @@ footer{
   background: #121d14;
   color: #f3eadb;
   font-size: 16px;
+}
+h1{
+  font-family: "Nanum Gothic Coding", monospace;
+  font-size: 100;
+  font-weight: 400;
+  text-align: center;
+  color: ;
+  line-height: 60px; 
 }
