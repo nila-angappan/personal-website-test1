@@ -1,5 +1,5 @@
 img {
-    width: 200px;
+    width: 400px;
   }
   body {
     text-align: center;
@@ -11,6 +11,14 @@ img {
   body {
     text-align: center;
     font-family: 'Arial';
-    background: #FFE4E1;
-    color: #800000;
+    background: #f3eadb;
+    color: #121d14;
   }
+button{
+  background-color: #c0cfb2;
+  color: #121d14;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-family: 'Arial';
+}
